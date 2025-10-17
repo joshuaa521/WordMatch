@@ -1,7 +1,6 @@
 public class WordMatch {
     private String secret;
 
-
     /**
      * Constructs a WordMatch object with the given secret string of lowercase
      * letters.

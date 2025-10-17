@@ -6,7 +6,7 @@ public class Main {
         System.out.println(w.scoreGuess("issipp"));
         System.out.println(w.scoreGuess("mississippi"));
 
-        WordMatch f = new WordMatch("aabb");
+        WordMatch f = new WordMatch("aaaabb");
         System.out.println(f.scoreGuess("a"));
         System.out.println(f.scoreGuess("aa"));
         System.out.println(f.scoreGuess("aaa"));
